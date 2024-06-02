@@ -1,6 +1,6 @@
 export const bookingData = {
     photoUrl: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=960",
-    hotelName: "Hotel Lefsní Zátiší",
+    hotelName: "Hotel Lesní Zátiší",
     address: "Malohradské skály 347/21",
     city: "Malohradská ves",
     rating: "4.65",
