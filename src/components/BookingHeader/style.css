@@ -1,0 +1,30 @@
+.summary__head {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .summary__photo {
+    width: 120px;
+    height: 120px;
+    border-radius: 8px;
+    margin-right: 20px;
+  }
+  
+  .summary__head-property,
+  .summary__head-room {
+    flex: 1;
+  }
+  
+  .summary__name {
+    margin-top: 0;
+  }
+  
+  .summary__rating {
+    font-style: italic;
+  }
+  
+  .summary__address,
+  .summary__city {
+    font-size: 0.9em;
+  }

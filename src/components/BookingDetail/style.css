@@ -1,0 +1,16 @@
+.summary__detail {
+    margin-bottom: 20px;
+  }
+  
+  .summary__detail h3 {
+    margin-top: 0;
+  }
+  
+  .summary__room-total {
+    font-weight: bold;
+  }
+  
+  .summary__check-in,
+  .summary__check-out {
+    font-style: italic;
+  }

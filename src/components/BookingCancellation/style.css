@@ -1,0 +1,14 @@
+.summary__cancel {
+    margin-bottom: 20px;
+  }
+  
+  .summary__cancel h3 {
+    margin-top: 0;
+  }
+  
+  .summary__cancel-text {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+  }
